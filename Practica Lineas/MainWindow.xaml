@@ -12,6 +12,8 @@
         <Polyline Name="plnLinea2" StrokeThickness="5" Stroke="Black"/>
         <Polyline Name="plnLinea3" StrokeThickness="5" Stroke="Black"/>
         <Polyline Name="plnLinea4" StrokeThickness="5" Stroke="Black"/>
-        <Polyline Name="plnLinea6" StrokeThickness="5" Stroke="Black"/>
+        <Polyline Name="plnLinea6" StrokeThickness="5" Stroke="Brown"/>
+        <Polyline Name="plnLinea7" StrokeThickness="5" Stroke="Green"/>
+        <Polyline Name="plnLinea8" StrokeThickness="5" Stroke="Green"/>
     </Grid>
 </Window>

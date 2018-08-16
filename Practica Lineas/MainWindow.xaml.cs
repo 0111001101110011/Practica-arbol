@@ -55,10 +55,21 @@ namespace Practica_Lineas
             plnLinea4.Points.Add(new Point(550.0, 750.0));
 
             //Pos el arbol lila
+
+            //El tronco xdd
             plnLinea6.Points.Add(new Point(1000.0, 750.0));
             plnLinea6.Points.Add(new Point(1000.0, 550.0));
+            plnLinea6.Points.Add(new Point(1070.0, 550.0));
+            plnLinea6.Points.Add(new Point(1070.0, 750.0));
+            plnLinea6.Points.Add(new Point(1000.0, 750.0));
 
 
+            //Las ramaaaas xd
+            plnLinea7.Points.Add(new Point(1000.0, 550.0));
+            plnLinea7.Points.Add(new Point(950.0, 450.0));
+            plnLinea7.Points.Add(new Point(1020.0, 350.0));
+            plnLinea7.Points.Add(new Point(1100.0, 450.0));
+            plnLinea7.Points.Add(new Point(1070.0, 550.0));
 
 
 
